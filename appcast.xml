@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Switchyard</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Mon, 06 Jul 2026 14:21:36 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://yanda.github.io/switchyard-releases/Switchyard-0.2.0.zip" length="1815308" type="application/octet-stream" sparkle:edSignature="aqcsw9mSQt+JmZeBa1a1CngaR6Uj2HtmO3gwy4c0OiZAtr/dfoO8li7M9/t+te8NGeOQRlNSlqnjSmtt6HYYCA=="/>
+        </item>
+    </channel>
+</rss>
