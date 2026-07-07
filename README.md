@@ -1,6 +1,6 @@
 # Switchyard Releases
 
-Download and update feed for [Switchyard](https://github.com/yanda/chrome-router),
+Download and update feed for Switchyard,
 a macOS app that opens each link you click in the right Google Chrome profile.
 
 - **Latest download**: grab the newest `Switchyard-x.y.z.zip` from this repo.
