@@ -3,6 +3,18 @@
     <channel>
         <title>Switchyard</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Thu, 09 Jul 2026 16:16:21 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://yanda.github.io/switchyard-releases/Switchyard-0.2.1.zip" length="1893735" type="application/octet-stream" sparkle:edSignature="BPvaDA7NCYgx6DPJR2wUjZwb38MvMkmGpVS4fZ53YCMBgqA3nFRjlIA8jKd1lktTuWPkLF1wlVtxA+phJXY0DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://yanda.github.io/switchyard-releases/Switchyard5-4.delta" sparkle:deltaFrom="4" length="199394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jKlvauFUTmxfk2D3Wzyw1XmhUM0juQIy08g7fbdjxIcQvbAejDJmleHf472XKunFct/LJ4PS5Pr7F4u8IwWSDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Mon, 06 Jul 2026 14:21:36 -0700</pubDate>
             <sparkle:version>4</sparkle:version>
