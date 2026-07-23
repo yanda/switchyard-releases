@@ -3,6 +3,20 @@
     <channel>
         <title>Switchyard</title>
         <item>
+            <title>0.3.5</title>
+            <pubDate>Thu, 23 Jul 2026 09:20:43 -0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://yanda.github.io/switchyard-releases/Switchyard-0.3.5.zip" length="4103829" type="application/octet-stream" sparkle:edSignature="SGs+HR4MMyM/DWhiO3vBvLERvgJreYsdEI+kzlJU5LdoyU6f9GsKVZ6Ess4xCW81S4EoT0xs30wsKsxukLNIBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://yanda.github.io/switchyard-releases/Switchyard7-6.delta" sparkle:deltaFrom="6" length="53374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XAfXxmxIOd0DjlX9OQPsLxxmyoA/qDDk0kf7Wqnwo60AdOTQBNNiqtGbaIHCSz4oOpQGUmI25NoYW8mRagxfAg=="/>
+                <enclosure url="https://yanda.github.io/switchyard-releases/Switchyard7-5.delta" sparkle:deltaFrom="5" length="1786334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FFxPNjwg5gG4G6r6Br9YepBgdXo3NU3aM8ECaCZVZmnFmfCglUd4hmQILpRtclOrcppXlHyFqsRGgfBzCR+dBg=="/>
+                <enclosure url="https://yanda.github.io/switchyard-releases/Switchyard7-4.delta" sparkle:deltaFrom="4" length="1930630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sKpWRNDHyS95KDkGQtakRW5PrKm8lOiSxxMdnDE6PliGLWl0whOMwJPd07TlBmwOHovttyv2ynSuSxSkJSK0DQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Tue, 21 Jul 2026 16:57:14 -0400</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -26,15 +40,6 @@
             <sparkle:deltas>
                 <enclosure url="https://yanda.github.io/switchyard-releases/Switchyard5-4.delta" sparkle:deltaFrom="4" length="199394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jKlvauFUTmxfk2D3Wzyw1XmhUM0juQIy08g7fbdjxIcQvbAejDJmleHf472XKunFct/LJ4PS5Pr7F4u8IwWSDQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Mon, 06 Jul 2026 14:21:36 -0700</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://yanda.github.io/switchyard-releases/Switchyard-0.2.0.zip" length="1815308" type="application/octet-stream" sparkle:edSignature="aqcsw9mSQt+JmZeBa1a1CngaR6Uj2HtmO3gwy4c0OiZAtr/dfoO8li7M9/t+te8NGeOQRlNSlqnjSmtt6HYYCA=="/>
         </item>
     </channel>
 </rss>
